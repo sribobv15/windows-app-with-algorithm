@@ -1,0 +1,54 @@
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\bin\Debug\NeoOva Software.exe.config
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\bin\Debug\NeoOva Software.exe
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\bin\Debug\NeoOva Software.pdb
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csprojResolveAssemblyReference.cache
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.LoginForm.resources
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.MainForm.resources
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.NeoOva.resources
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.NeoPlus.resources
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.NeoPlusResult.resources
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.PhyView.resources
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.Properties.Resources.resources
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.TechView.resources
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csproj.GenerateResource.Cache
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.exe
+C:\Users\Prave\source\repos\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.pdb
+D:\NeoOva Software\NeoOva Software\bin\Debug\NeoOva Software.exe.config
+D:\NeoOva Software\NeoOva Software\bin\Debug\NeoOva Software.exe
+D:\NeoOva Software\NeoOva Software\bin\Debug\NeoOva Software.pdb
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csprojResolveAssemblyReference.cache
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.LoginForm.resources
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.MainForm.resources
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.NeoOva.resources
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.NeoPlus.resources
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.NeoPlusResult.resources
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.PhyView.resources
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.Properties.Resources.resources
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.TechView.resources
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csproj.GenerateResource.Cache
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csproj.CoreCompileInputs.cache
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.exe
+D:\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.pdb
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\bin\Debug\NeoOva.exe.config
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\bin\Debug\NeoOva.exe
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\bin\Debug\NeoOva.pdb
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.LoginForm.resources
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.MainForm.resources
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.NeoOva.resources
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.NeoPlus.resources
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.NeoPlusResult.resources
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.PhyView.resources
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva.Properties.Resources.resources
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.TechView.resources
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva.exe
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva.pdb
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva Software.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\obj\Debug\NeoOva_Software.Prob_Info.resources
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\bin\Debug\itextsharp.dll
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\bin\Debug\itextsharp.xtra.dll
+C:\Users\user\Desktop\NeoOva Software\NeoOva Software\bin\Debug\itextsharp.xml

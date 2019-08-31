@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\bin\Release\NeoOva.exe.config
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\bin\Release\NeoOva.exe
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\bin\Release\NeoOva.pdb
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\bin\Release\itextsharp.dll
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\bin\Release\itextsharp.pdfa.dll
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\bin\Release\itextsharp.xtra.dll
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\bin\Release\itextsharp.xml
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoCol Software.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoCol Software.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva_Software.NeoOva.resources
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva_Software.LoginForm.resources
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva_Software.MainForm.resources
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva_Software.NeoPlus.resources
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva_Software.NeoPlusResult.resources
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva_Software.PhyView.resources
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva_Software.Prob_Info.resources
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva.Properties.Resources.resources
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva_Software.TechView.resources
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoCol Software.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoCol Software.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoCol Software.csproj.CopyComplete
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva.exe
+C:\Users\user\Desktop\NeoCol Software\NeoOva Software\obj\Release\NeoOva.pdb
